@@ -4,5 +4,5 @@
 
 ## Math
 
-* [Debriefs](math/untitled.md)
+* [Debriefs](math/readme.md)
 
